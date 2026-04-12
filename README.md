@@ -1,11 +1,25 @@
-- 👋 Hi, I'm @devlikebear, a Senior Full-Stack Engineer & Team Lead with expertise in online game service platforms.
-- 👀 I'm passionate about developing innovative game solutions and game service platforms like steam.
-- 🌱 I'm experienced in Go, Java, C++, Erlang, Vue.js, DevOps, cloud-native application development, and various database technologies.
-- 💼 As a team leader for over 15 years, I've honed my skills in software design and agile-based project management.
-- 🤝 I'm open to collaborating on projects related to game development and other software engineering challenges.
-- 📫 Reach out to me by sending an email to devlikebear@gmail.com.
+# Hi, I'm @devlikebear 👋
 
-<!---
-devlikebear/devlikebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Engineer & Team Lead building large-scale infrastructure monitoring systems (40,000+ hosts).
+
+## What I'm Working On
+
+- 🔭 **[ai-skills](https://github.com/devlikebear/ai-skills)** — Open-source skill modules for AI coding agents (source-analyzer, generate-search-index, and more)
+- 🤖 **[tars](https://github.com/devlikebear/tars)** — Self-hosted AI agent runtime in Go: chat, parallel sub-agents, 3-tier model routing, background watchdog
+- 🍏 **[break-reminder](https://github.com/devlikebear/break-reminder)** — Smart macOS break reminder with guided activities
+
+## Tech Stack
+
+`Go` `Python` `PostgreSQL` `Kafka` `Kubernetes` `AWS` `Grafana` `Terraform`
+
+## Interests
+
+- AI-assisted development & agentic workflows
+- Infrastructure observability at scale
+- Time series analysis & anomaly detection
+- Game development (soulslike mechanics 🎮)
+
+## Connect
+
+- ✍️ [X.com posts](https://x.com/devlikebear) 
+- 📫 devlikebear@gmail.com
