@@ -5,7 +5,7 @@ Backend Engineer & Team Lead building large-scale infrastructure monitoring syst
 ## What I'm Working On
 
 - 🔭 **[ai-skills](https://github.com/devlikebear/ai-skills)** — Open-source skill modules for AI coding agents (source-analyzer, generate-search-index, and more)
-- 🤖 **[tars](https://github.com/devlikebear/tars)** — Self-hosted AI agent runtime in Go: chat, parallel sub-agents, 3-tier model routing, background watchdog
+- 🤖 **[tars](https://github.com/devlikebear/tars)** **[tars-homepage](https://tars.marvin-42.com)** — Local AI agent runtime that runs on your machine — under your control. Single Go binary with a browser console for chat, sub-agents, memory review, scheduled jobs, and a watchdog
 - 🍏 **[break-reminder](https://github.com/devlikebear/break-reminder)** — Smart macOS break reminder with guided activities
 
 ## Tech Stack
