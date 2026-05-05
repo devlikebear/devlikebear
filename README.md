@@ -1,6 +1,6 @@
 # Hi, I'm @devlikebear 👋
 
-Backend Engineer & Team Lead building large-scale infrastructure monitoring systems (40,000+ hosts).
+Backend Engineer & Team Lead building large-scale infrastructure monitoring systems.
 
 ## What I'm Working On
 
