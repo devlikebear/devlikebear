@@ -1,25 +1,20 @@
 # Hi, I'm @devlikebear 👋
 
-Backend Engineer & Team Lead building large-scale infrastructure monitoring systems.
+Backend engineer & team lead in Pangyo. Days: infra monitoring at scale. Nights: local-first Go products and AI agents.
 
-## What I'm Working On
+## What I'm shipping
 
-- 🔭 **[ai-skills](https://github.com/devlikebear/ai-skills)** — Open-source skill modules for AI coding agents (source-analyzer, generate-search-index, and more)
-- 🤖 **[tars](https://github.com/devlikebear/tars)** **[tars-homepage](https://tars.marvin-42.com)** — Local AI agent runtime that runs on your machine — under your control. Single Go binary with a browser console for chat, sub-agents, memory review, scheduled jobs, and a watchdog
-- 🍏 **[break-reminder](https://github.com/devlikebear/break-reminder)** — Smart macOS break reminder with guided activities
+- ✍️ **[linetta](https://github.com/devlikebear/linetta)** — Local-first writing studio for novels and web fiction (outline, worldbuilding, AI companion, backups). [App Store](https://apps.apple.com/app/id6781664781) · `brew install --cask devlikebear/tap/linetta`
+- 🤖 **[tars](https://github.com/devlikebear/tars)** — Local AI agent runtime. Single Go binary, browser console, sub-agents, scheduled jobs. [tars.marvin-42.com](https://tars.marvin-42.com)
+- 🍏 **[break-reminder](https://github.com/devlikebear/break-reminder)** — Smart macOS break reminder (50/10 cycles, menu bar, guided breaks). `brew install devlikebear/tap/break-reminder`
 
-## Tech Stack
+Also: [awesome-go-rank](https://awesome-go-rank.vercel.app) ranks the [awesome-go](https://github.com/avelino/awesome-go) catalog, and [ai-skills](https://github.com/devlikebear/ai-skills) adds source-analyzer and code-workflow skills for Codex and Claude Code.
+
+## Stack
 
 `Go` `Python` `PostgreSQL` `Kafka` `Kubernetes` `AWS` `Grafana` `Terraform`
 
-## Interests
-
-- AI-assisted development & agentic workflows
-- Infrastructure observability at scale
-- Time series analysis & anomaly detection
-- Game development (soulslike mechanics 🎮)
-
 ## Connect
 
-- ✍️ [X.com posts](https://x.com/devlikebear) 
-- 📫 devlikebear@gmail.com
+- [X](https://x.com/devlikebear)
+- devlikebear@gmail.com
