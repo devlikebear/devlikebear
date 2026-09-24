@@ -22,6 +22,4 @@ Also: [awesome-go-rank](https://awesome-go-rank.vercel.app) ranks the [awesome-g
 
 - [X](https://x.com/devlikebear) · [Bluesky](https://bsky.app/profile/devlikebear.com)
 - hello@devlikebear.com
-<!-- 4단계에서 블로그를 띄우면 아래 줄 주석 해제
 - Blog: [devlikebear.com](https://devlikebear.com)
--->
