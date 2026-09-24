@@ -2,6 +2,8 @@
 
 Backend engineer, 25 years in. I build local-first Go products that work with the AI agents you already run, and I'm slowly turning into a solo game dev.
 
+Workshop hub: [marvin-42.com](https://marvin-42.com)
+
 ## What I'm shipping
 
 - ✍️ **[linetta](https://github.com/devlikebear/linetta)** — Local-first writing studio for long-form fiction. Outline, worldbuilding, snapshots and backups; built-in agent (BYOK) or bring your own over local MCP (Claude Code, Claude Desktop, Codex, Gemini). v1.2 · [linetta.marvin-42.com](https://linetta.marvin-42.com) · [Mac App Store](https://apps.apple.com/app/id6781664781) · `brew install --cask devlikebear/tap/linetta` · [Windows/Linux](https://github.com/devlikebear/linetta/releases/latest)
@@ -20,6 +22,4 @@ Also: [awesome-go-rank](https://awesome-go-rank.vercel.app) ranks the [awesome-g
 
 - [X](https://x.com/devlikebear) · [Bluesky](https://bsky.app/profile/devlikebear.com)
 - hello@devlikebear.com
-<!-- 4단계에서 블로그를 띄우면 아래 줄 주석 해제
 - Blog: [devlikebear.com](https://devlikebear.com)
--->
