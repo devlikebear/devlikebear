@@ -1,6 +1,6 @@
 # Hi, I'm @devlikebear 👋
 
-Build log of a Go programmer who wants to make indie games. For now I ship small Go tools that work with the AI agents you already run.
+Build log of a Go programmer. I ship small Go tools that work with the AI agents you already run.
 
 Workshop hub: [marvin-42.com](https://marvin-42.com)
 
