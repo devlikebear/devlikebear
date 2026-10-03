@@ -20,6 +20,6 @@ Also: [awesome-go-rank](https://awesome-go-rank.vercel.app) ranks the [awesome-g
 
 ## Elsewhere
 
-- [X](https://x.com/devlikebear) · [Bluesky](https://bsky.app/profile/devlikebear.com)
+- [X](https://x.com/devlikebear)
 - hello@devlikebear.com
 - Blog: [devlikebear.com](https://devlikebear.com)
