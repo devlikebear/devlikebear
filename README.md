@@ -6,7 +6,7 @@ Workshop hub: [marvin-42.com](https://marvin-42.com)
 
 ## What I'm shipping
 
-- ✍️ **[linetta](https://github.com/devlikebear/linetta)** — Writing studio for long-form fiction. Outline, worldbuilding, snapshots and backups; built-in agent (BYOK) or bring your own over local MCP (Claude Code, Claude Desktop, Codex, Gemini). v1.12 · [linetta.marvin-42.com](https://linetta.marvin-42.com) · [Mac App Store](https://apps.apple.com/app/id6781664781) · `brew install --cask devlikebear/tap/linetta` · [Windows/Linux](https://github.com/devlikebear/linetta/releases/latest)
+- ✍️ **[linetta](https://github.com/devlikebear/linetta)** — Writing studio for long-form fiction. Outline, worldbuilding, snapshots and backups; built-in agent (BYOK) or bring your own over local MCP (Claude Code, Claude Desktop, Codex, Gemini). v1.13 · [linetta.marvin-42.com](https://linetta.marvin-42.com) · [Mac App Store](https://apps.apple.com/app/id6781664781) · `brew install --cask devlikebear/tap/linetta` · [Windows/Linux](https://github.com/devlikebear/linetta/releases/latest)
 
 - 📚 **[Linetta Works](https://works.marvin-42.com)** — Reading site for web fiction written in linetta. Sign up with Google or an email code and publish episodes straight from the app (linetta v1.9+); each episode goes through an automated content check before it goes public.
 
